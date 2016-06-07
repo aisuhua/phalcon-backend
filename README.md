@@ -1,11 +1,14 @@
-# Phalcon-Backend
+# phalcon-backend
 
 使用 Phalcon 搭建的一个后台框架，它使用了 Bootstrap 及其优秀的插件，如 bootstrap-table/bootbox/metisMenu/pnotify 等等。同时为了实现全站异步，使用 pajx + nprogress，使页面更加美观一点。
-该
 
 ## 安装
 
 下载本仓库源码 [Phalcon-Backend](https://github.com/aisuhua/phalcon-backend)
+
+安装第三发扩展
+
+    composer install
 
 新建数据库
 
