@@ -1,0 +1,11 @@
+.hg/
+.hgignore
+.DS_Store
+/nbproject/
+vendor/
+.idea/
+composer.lock
+composer.phar
+selenium-server-standalone-*.jar
+chromedriver
+/public/google*.html

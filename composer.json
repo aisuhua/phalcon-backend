@@ -1,0 +1,32 @@
+{
+    "name":        "aisuhua/phalcon-backend",
+    "description": "A backend using the bootstrap/phalcon/pajx/ext and so on.",
+    "keywords":    [],
+    "type":        "project",
+    "license":     "aisuhua",
+    "homepage":    "https://github.com/aisuhua",
+    "authors": [
+        {
+            "name": "aisuhua",
+            "email": "1079087531@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.6",
+        "ext-mbstring": "*",
+        "ext-iconv": "*",
+        "ext-phalcon": ">=2.0.3",
+        "vlucas/phpdotenv": "^2.1",
+        "guzzlehttp/guzzle": ">=4.1.4 <7.0",
+        "phalcon/incubator": "2.0.x-dev"
+    },
+    "require-dev": {
+
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
